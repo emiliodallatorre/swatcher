@@ -1,3 +1,8 @@
-## [0.0.1] - TODO: Add release date.
+## [0.0.2] - december 1st 2020
 
-* TODO: Describe initial release.
+* Correction of the READMEs and CHANGELOGs.
+
+
+## [0.0.1] - december 1st 2020
+
+* First release.
