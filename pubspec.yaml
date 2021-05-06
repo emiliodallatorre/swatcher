@@ -1,6 +1,6 @@
 name: swatcher
 description: A simple utility to convert a Flutter Color to a MaterialColor for a theme.
-version: 0.0.2
+version: 0.1.0
 # authors: [Emilio Dalla Torre]
 homepage: https://emiliodallatorre.it
 repository: https://github.com/emiliodallatorre/swatcher
@@ -8,7 +8,7 @@ issue_tracker: https://github.com/emiliodallatorre/swatcher/issues
 
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
+  sdk: ">=2.12.0 <3.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
